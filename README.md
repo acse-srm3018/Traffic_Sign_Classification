@@ -11,4 +11,4 @@ Install all the dependencies:
 - Pickle
 - Matplotlib
 ### Run 
-Run the ipython notebook file Traffic_Sign_Classifier-Copy1.ipynb using jupyter notebook
+Run the ipython notebook file trafficsign.ipynb using jupyter notebook
