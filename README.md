@@ -16,4 +16,4 @@ Install all the dependencies:
 - Pickle
 - Matplotlib
 ### Run 
-Run the ipython notebook file trafficsign.ipynb using jupyter notebook
+Run the ipython notebook file traffic_sign.ipynb using jupyter notebook
