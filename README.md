@@ -54,7 +54,7 @@ For Windows users, these following commands need to be executed from the **Anaco
 1. **Clone** the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
   
   ```sh
-  git clone https://github.com/wolfapple/traffic-sign-recognition.git
+  git clone https://github.com/acse-srm3018/Traffic_Sign_Classification
   cd traffic-sign-recognition
   ```
 
